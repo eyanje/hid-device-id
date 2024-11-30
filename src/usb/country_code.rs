@@ -1,0 +1,39 @@
+/// Country codes from section 6.2.1 of the USB HID specification.
+
+pub const NOT_SUPPORTED: u8 = 0x00u8;
+pub const ARABIC: u8 = 0x01u8;
+pub const BELGIAN: u8 = 0x02u8;
+pub const CANADIAN_BILINGUAL: u8 = 0x03u8;
+pub const CANADIAN_FRENCH: u8 = 0x04u8;
+pub const CZECH_REPUBLIC: u8 = 0x05u8;
+pub const DANISH: u8 = 0x06u8;
+pub const FINNISH: u8 = 0x07u8;
+pub const FRENCH: u8 = 0x08u8;
+pub const GERMAN: u8 = 0x09u8;
+pub const GREEK: u8 = 0x0Au8;
+pub const HEBREW: u8 = 0x0Bu8;
+pub const HUNGARY: u8 = 0x0Cu8;
+pub const INTERNATIONAL: u8 = 0x0Du8;
+pub const ITALIAN: u8 = 0x0Eu8;
+pub const JAPAN: u8 = 0x0Fu8;
+pub const KOREAN: u8 = 0x10u8;
+pub const LATIN_AMERICAN: u8 = 0x11u8;
+pub const NETHERLANDS: u8 = 0x12u8;
+pub const NORWEGIAN: u8 = 0x13u8;
+pub const PERSIAN: u8 = 0x14u8;
+pub const POLAND: u8 = 0x15u8;
+pub const PORTUGUESE: u8 = 0x16u8;
+pub const RUSSIA: u8 = 0x17u8;
+pub const SLOVAKIA: u8 = 0x18u8;
+pub const SPANISH: u8 = 0x19u8;
+pub const SWEDISH: u8 = 0x1Au8;
+pub const SWISS_FRENCH: u8 = 0x1Bu8;
+pub const SWISS_GERMAN: u8 = 0x1Cu8;
+pub const SWITZERLAND: u8 = 0x1Du8;
+pub const TAIWAN: u8 = 0x1Eu8;
+pub const TURKISH_Q: u8 = 0x1Fu8;
+pub const UK: u8 = 0x20u8;
+pub const US: u8 = 0x21u8;
+pub const YUGOSLAVIA: u8 = 0x22u8;
+pub const TURKISH_F: u8 = 0x23u8;
+
